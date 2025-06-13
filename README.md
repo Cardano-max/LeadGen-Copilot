@@ -535,31 +535,7 @@ This project is for demonstration purposes. Please ensure compliance with all ap
 
 # LeadGen-Copilot
 
-A powerful Google Maps business scraper integrated with Next.js, featuring:
-
-- 🚀 Advanced scraping with double-scroll method
-- 📊 Comprehensive data extraction
-- 🌐 Website crawling for additional contact info
-- ⚡ Parallel and sequential modes
-- 🛡️ Production-ready error handling
-- 💾 Memory optimization
-- 📝 CSV/JSON export options
-
-## Features
-
-- Proven double-scroll method (6→12→18 results pattern)
-- Google Sheets integration
-- JSON/CSV output
-- Parallel and sequential modes
-- Production-ready error handling
-- Memory optimization
-
-## Tech Stack
-
-- Next.js 14
-- Puppeteer
-- TypeScript
-- Tailwind CSS
+A Next.js application for business data collection.
 
 ## Getting Started
 
@@ -567,14 +543,6 @@ A powerful Google Maps business scraper integrated with Next.js, featuring:
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
 4. Open [http://localhost:3000](http://localhost:3000)
-
-## Environment Variables
-
-Create a `.env` file in the root directory and add your configuration:
-
-```env
-# Add your environment variables here
-```
 
 ## License
 
